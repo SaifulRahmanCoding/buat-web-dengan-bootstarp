@@ -1,0 +1,24 @@
+.container-fluid{
+	max-width: 1200px;
+}
+.container{
+	max-width: 1200px !important;
+}
+.navbar-brand img{
+	width: 100px;
+}
+.carousel-inner .carousel-item img{
+	max-height: 720px;
+	object-fit: cover;
+}
+.icon i{
+	font-size: 60px;
+}
+.card-img-top{
+	max-height: 300px;
+	object-fit: cover;
+}
+.card-img{
+	max-height: 200px;
+	object-fit: cover;
+}
